@@ -1,28 +1,79 @@
-<h1 align="center">Hi 👋, I'm Ronak</h1>
-<h3 align="center">A student whose building cool stuff with AI and learning along the way</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fourtysevencode&label=Profile%20views&color=0e75b6&style=flat" alt="fourtysevencode" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B85C8A&height=120&section=header&text=Hey,%20I'm%20Ronak%20&fontSize=36&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-- 🔭 I’m currently working on [Nyaya](https://nyaya.ronakbuilds.tech/)
+</div>
 
-- 🌱 I’m currently learning **Neural Networks and Javascript**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://ronakbuilds.tech/](https://ronakbuilds.tech/)
+```
+Student · Builder · Athlete
+Building cool stuff with AI, learning along the way
+```
 
-- 📫 How to reach me **ronakpalforyou@gmail.com**
+---
 
-- ⚡ Fun fact **i somehow manage schoolwork to coding to gym in the same day without collapsing**
+### 🔭 Now
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/fourtysevencode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fourtysevencode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ronakpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronakpal" height="30" width="40" /></a>
-<a href="https://kaggle.com/ronakpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ronakpal" height="30" width="40" /></a>
-</p>
+| | |
+|---|---|
+| **Working on** | [Nyaya](https://nyaya.ronakbuilds.tech/) — check it out |
+| **Learning** | Neural Networks & JavaScript |
+| **Portfolio** | [ronakbuilds.tech](https://ronakbuilds.tech/) |
+| **Contact** | ronakpalforyou@gmail.com |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+> ⚡ I somehow manage schoolwork, coding, and gym in the same day without collapsing.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fourtysevencode&show_icons=true&locale=en&layout=compact" alt="fourtysevencode" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fourtysevencode&show_icons=true&locale=en" alt="fourtysevencode" /></p>
+### 🛠️ Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-993356?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B85C8A?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-D4537E?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-ED93B1?style=flat-square&logo=css3&logoColor=72243E)
+
+**Frameworks & Libraries**
+
+![Flask](https://img.shields.io/badge/Flask-993356?style=flat-square&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-B85C8A?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-D4537E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-ED93B1?style=flat-square&logo=opencv&logoColor=72243E)
+![pandas](https://img.shields.io/badge/pandas-993356?style=flat-square&logo=pandas&logoColor=white)
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/Docker-B85C8A?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-D4537E?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-ED93B1?style=flat-square&logo=linux&logoColor=72243E)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=fourtysevencode&show_icons=true&hide_border=true&bg_color=00000000&title_color=B85C8A&icon_color=D4537E&text_color=555555" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=fourtysevencode&layout=compact&hide_border=true&bg_color=00000000&title_color=B85C8A&text_color=555555" />
+
+</div>
+
+---
+
+### 🌐 Connect
+
+[![dev.to](https://img.shields.io/badge/dev.to-fourtysevencode-993356?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/fourtysevencode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ronakpal-B85C8A?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronakpal)
+[![Kaggle](https://img.shields.io/badge/Kaggle-ronakpal-D4537E?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/ronakpal)
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=fourtysevencode&label=profile+views&color=B85C8A&style=flat-square" />
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B85C8A&height=80&section=footer" width="100%"/>
+</div>
