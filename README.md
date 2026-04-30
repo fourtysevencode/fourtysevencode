@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fourtysevencode&show_icons=true&locale=en&layout=compact" alt="fourtysevencode" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fourtysevencode&show_icons=true&locale=en" alt="fourtysevencode" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fourtysevencode&" alt="fourtysevencode" /></p>
