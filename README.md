@@ -51,17 +51,6 @@ Building cool stuff with AI, learning along the way
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=fourtysevencode&show_icons=true&hide_border=true&bg_color=00000000&title_color=B85C8A&icon_color=D4537E&text_color=555555" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=fourtysevencode&layout=compact&hide_border=true&bg_color=00000000&title_color=B85C8A&text_color=555555" />
-
-</div>
-
----
-
 ### 🌐 Connect
 
 [![dev.to](https://img.shields.io/badge/dev.to-fourtysevencode-993356?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/fourtysevencode)
