@@ -20,7 +20,7 @@ Building cool stuff with AI, learning along the way
 | **Working on** | [Nyaya](https://nyaya.ronakbuilds.tech/) — check it out |
 | **Learning** | Neural Networks & JavaScript |
 | **Portfolio** | [ronakbuilds.tech](https://ronakbuilds.tech/) |
-| **Contact** | ronakpalforyou@gmail.com |
+| **Contact** | hello@ronakbuilds.tech |
 
 > ⚡ I somehow manage schoolwork, coding, and gym in the same day without collapsing.
 
