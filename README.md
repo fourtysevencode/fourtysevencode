@@ -17,7 +17,7 @@ Building cool stuff with AI, learning along the way
 
 | | |
 |---|---|
-| **Working on** | [Nyaya](https://nyaya.ronakbuilds.tech/) — check it out |
+| **Working on** | [RakshAI](https://rakshai.ronakbuilds.tech/) — check it out |
 | **Learning** | Neural Networks & JavaScript |
 | **Portfolio** | [ronakbuilds.tech](https://ronakbuilds.tech/) |
 | **Contact** | hello@ronakbuilds.tech |
